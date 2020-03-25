@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "message": "Changed workstation to 60",
+            "attention": false,
+            "date":"03-02-2019",
+            "tech":"Honey Singh"
+        },
+        {
+            "id": 2,
+            "message": "Changed workstation to 007",
+            "attention": false,
+            "date":"03-02-2019",
+            "tech":"Saksham Chauhan"
+        },
+        {
+            "id": 3,
+            "message": "Changed 008 workstation to 620",
+            "attention": false,
+            "date":"03-02-2019",
+            "tech":"Sara Wilson"
+        }
+    ],
+    "techs": [
+        {
+            "id": 1,
+            "firstName": "Saksham",
+            "lastName": "Chauhan"
+        },
+        {
+            "id": 2,
+            "firstName": "Sara",
+            "lastName": "Wilson"
+        },
+        {
+            "id": 3,
+            "firstName": "Honey",
+            "lastName": "Singh"
+        }
+    ]
+}

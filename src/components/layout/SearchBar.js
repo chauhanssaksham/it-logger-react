@@ -1,5 +1,5 @@
 import React from 'react'
-import {Navbar, Icon, NavItem} from 'react-materialize'
+import {Navbar} from 'react-materialize'
 const SearchBar = () => {
     return (
         <Navbar className="blue" search />

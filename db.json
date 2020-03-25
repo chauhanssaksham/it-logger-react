@@ -3,7 +3,7 @@
         {
             "id": 1,
             "message": "Changed workstation to 60",
-            "attention": false,
+            "attention": true,
             "date":"03-02-2019",
             "tech":"Honey Singh"
         },

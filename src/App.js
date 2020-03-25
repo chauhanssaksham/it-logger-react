@@ -1,12 +1,18 @@
-import React from 'react';
+import React, {useEffect} from 'react';
+import 'materialize-css/dist/css/materialize.min.css';
+import M from 'materialize-css/dist/js/materialize.min.js';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-       My App
-    </div>
-  );
+    useEffect(()=>{
+        //initializes Materialize.js (Modals)
+        M.AutoInit();
+    });
+    return (
+        <div className="App">
+        My App
+        </div>
+    );
 }
 
 export default App;
